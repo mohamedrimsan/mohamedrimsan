@@ -8,7 +8,8 @@
 - ⚡ Fun fact: Cyber Sentinel 🕵🏼
 
 📫 **How to reach me:**  
-[![LinkedIn](https://www.linkedin.com/in/mohamed-rimsan-a-r?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJj5SHXx5TBylaEOxtFcanQ%3D%3D)  
+    LinkedIn: https://www.linkedin.com/in/mohamed-rimsan-a-r
+    WhatsApp: https://wa.me/94774047471
 ---
 
 ⭐ **Star your favorite repositories and connect with me!** 🚀
