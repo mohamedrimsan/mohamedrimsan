@@ -160,17 +160,11 @@ Currently contributing to the security, quality assurance, and compliance readin
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrimsan&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimsan&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrimsan&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -246,14 +240,6 @@ Focus Areas:
 
 ---
 
-<div align="center">
-
-### 🚀 Securing Digital Assets • Enhancing Software Quality • Managing Risk • Enabling Trust
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -269,6 +255,12 @@ Focus Areas:
 </p>
 
 ---
+
+<div align="center">
+
+### 🚀 Securing Digital Assets • Enhancing Software Quality • Managing Risk • Enabling Trust
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
