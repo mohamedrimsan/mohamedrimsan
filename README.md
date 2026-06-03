@@ -174,6 +174,53 @@ Currently contributing to the security, quality assurance, and compliance readin
 
 ---
 
+## 🌱 Currently Advancing My Expertise
+
+I am continuously expanding my knowledge and practical skills in:
+
+* 🛡️ Security Operations Center (SOC) Operations
+* 📊 Security Information and Event Management (SIEM)
+* 🎯 Threat Hunting & Threat Detection
+* 🔍 Detection Engineering
+* ☁️ Cloud Incident Response & Cloud Security
+* 📈 Security Monitoring & Log Analysis
+* ⚔️ Purple Teaming Methodologies
+* 🚨 Incident Response & Digital Forensics
+* 🔐 Advanced Vulnerability Management
+
+---
+
+## 🏆 Professional Interests
+
+* Cybersecurity Operations
+* Cloud Security Engineering
+* Application Security (AppSec)
+* Security Architecture
+* Digital Forensics
+* Security Automation
+* Governance, Risk & Compliance (GRC)
+* Security Awareness & Training
+
+---
+
+## 📂 Featured Domains
+
+🚀 Cybersecurity Projects
+
+🛡️ Vulnerability Management
+
+☁️ Cloud Security
+
+🧪 QA & Testing Projects
+
+📊 Governance, Risk & Compliance
+
+🔍 Security Research & Labs
+
+📋 Security Documentation
+
+---
+
 ## 🎓 Education
 
 **BSc (Hons) in Information Technology**
@@ -186,6 +233,24 @@ Focus Areas:
 * QA Engineering
 * Cloud Security
 * Governance, Risk & Compliance
+
+---
+
+## 💭 Professional Philosophy
+
+> Security is not a destination—it is a continuous journey of improvement, vigilance, and resilience.
+
+> Quality is never accidental; it is achieved through discipline, attention to detail, and a commitment to excellence.
+
+> Effective cybersecurity and quality assurance are built on proactive thinking, continuous learning, and responsible innovation.
+
+---
+
+<div align="center">
+
+### 🚀 Securing Digital Assets • Enhancing Software Quality • Managing Risk • Enabling Trust
+
+</div>
 
 ---
 
