@@ -1,185 +1,140 @@
-<h1 align="center">👋 Hi, I'm AR Mohamed Rimsan</h1>
+<div align="center">
 
-<h3 align="center">
-  QA & Security Engineer | Cybersecurity Enthusiast | IT Undergraduate
-</h3>
+# 👋 Hi, I'm AR Mohamed Rimsan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+QA+Engineering+%7C+GRC;Web+Application+Security+%7C+API+Testing;AWS+Security+%7C+Vulnerability+Management;Building+Secure+and+Reliable+Digital+Systems" alt="Typing SVG" />
-</p>
+### 🔐 QA & Security Engineer | Cybersecurity Professional | GRC Practitioner | IT Undergraduate
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-rimsan-a-r">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Rimsan-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://mohamedrimsan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="mailto:mohamed.rimsan@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Professional;QA+%26+Security+Engineer;AWS+Security+%7C+Vulnerability+Management;Governance+Risk+%26+Compliance;Web+Application+Security+Testing;Building+Secure+and+Reliable+Systems" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohamedrimsan&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/mohamed-rimsan-a-r">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mohamedrimsan.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-brightgreen?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="mailto:mohamed.rimsan@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ5MXN2a3Z2Y3VzdTQ1ZWJ6OW9peHk5YjA3bWxlcnllYjF0ZHA5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+I am an Information Technology undergraduate and QA & Security Engineer with practical experience in cybersecurity, vulnerability management, software quality assurance, cloud security, governance, risk & compliance, and secure software delivery.
 
-I am an **Information Technology undergraduate** and **QA & Security Engineer** with hands-on experience in:
+I enjoy identifying security weaknesses, improving software quality, conducting security assessments, and helping organizations build secure and resilient digital platforms.
 
-* 🔐 Cybersecurity & Security Testing
-* 🧪 Quality Assurance Testing
-* ☁️ AWS Security Verification
+### Current Areas of Focus
+
+* 🔐 Cybersecurity & Security Engineering
+* 🧪 Quality Assurance Engineering
+* ☁️ AWS Security
 * 🛡️ Vulnerability Assessment & Remediation
-* 📊 Governance, Risk & Compliance
-* 🔍 API Testing & Web Application Security
-* 📋 Jira Defect Management
-
-I enjoy finding security weaknesses, improving software quality, and helping teams build safer, reliable, and production-ready systems.
-
----
-
-## 🛡️ Professional Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/QA%20Testing-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRC-6A1B9A?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Management-D50000?style=for-the-badge&logo=snyk&logoColor=white" />
-</p>
+* 🌐 Web Application Security
+* 🔍 API Security Testing
+* 📊 Governance, Risk & Compliance (GRC)
+* 📋 Jira Administration & Defect Management
 
 ---
 
-## 🛠️ Tools & Technologies
-
-### 🔐 Security Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nikto-111111?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-### 🧪 QA & API Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-
-### 💻 Development & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 💼 Current Experience
+## 💼 Professional Experience
 
 ### QA & Security Engineer Intern — SAGO
 
-Currently contributing to the security, quality assurance, and compliance readiness of a global digital marketplace platform.
+Working on a global digital marketplace platform focusing on:
 
-**Key Contributions:**
-
-* Conducting web application security assessments
-* Performing vulnerability analysis and remediation
-* Testing APIs using Postman and Swagger
-* Supporting AWS deployment security verification
-* Managing bugs, defects, and enhancements in Jira
-* Supporting UAT and production readiness testing
-* Preparing cybersecurity, GRC, and compliance reports
-
----
-
-## 📌 Featured Work Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 Cybersecurity
-
-* Web Application Security
-* OWASP Top 10
-* Vulnerability Assessment
 * Security Testing
-* Dependency Scanning
-
-</td>
-<td width="50%">
-
-### 🧪 QA Engineering
-
-* Manual Testing
-* Functional Testing
-* Regression Testing
-* UAT Testing
+* Vulnerability Management
 * API Testing
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud Security
-
-* AWS Deployment Review
-* Environment Security
-* Access Control Review
-* Security Validation
-
-</td>
-<td width="50%">
-
-### 📊 GRC & Compliance
-
-* Risk Assessment
-* Compliance Review
-* Security Reports
-* Governance Documentation
-
-</td>
-</tr>
-</table>
+* AWS Security Verification
+* User Acceptance Testing (UAT)
+* Security Assessment Reporting
+* Compliance & Governance Reviews
+* Defect Tracking and Quality Assurance
 
 ---
 
-## 📊 GitHub Activity
+## 🛡️ Cybersecurity Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrimsan&show_icons=true&theme=tokyonight" />
-</p>
+### Security Tools
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimsan&theme=tokyonight" />
-</p>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge\&logo=snyk)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-111111?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrimsan&layout=compact&theme=tokyonight" />
-</p>
+### QA & Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+
+### Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+
+---
+
+## 📌 Featured Domains
+
+| Cybersecurity            | QA Engineering     |
+| ------------------------ | ------------------ |
+| Web Application Security | Functional Testing |
+| OWASP Top 10             | Regression Testing |
+| Vulnerability Management | UAT Testing        |
+| Security Reviews         | API Testing        |
+| Secure Development       | Defect Management  |
+
+| Cloud Security          | GRC                      |
+| ----------------------- | ------------------------ |
+| AWS Security            | Risk Assessment          |
+| Access Control Reviews  | Compliance Reviews       |
+| Security Validation     | Governance Documentation |
+| Infrastructure Security | Security Reporting       |
+
+---
+
+## 🌱 Currently Learning
+
+* SOC Operations
+* SIEM Engineering
+* Threat Hunting
+* Detection Engineering
+* Cloud Incident Response
+* Security Monitoring
+* Purple Teaming
 
 ---
 
 ## 🎓 Education
 
-**BSc (Hons) in Information Technology**
-The Open University of Sri Lanka
+### Bachelor of Science (Hons) in Information Technology
 
-Focus Areas:
+**The Open University of Sri Lanka**
+
+Specializations:
 
 * Cybersecurity
 * Security Operations
@@ -189,22 +144,40 @@ Focus Areas:
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-rimsan-a-r">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://mohamedrimsan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00C853?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="mailto:mohamed.rimsan@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedrimsan\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimsan\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrimsan\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
-</p>
+## 🏆 GitHub Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohamedrimsan\&theme=tokyonight\&column=7)
+
+---
+
+## 💭 Professional Philosophy
+
+> Security is a continuous process, not a one-time implementation.
+
+> Quality is never an accident; it is always the result of intelligent effort.
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/mohamed-rimsan-a-r
+* Portfolio: https://mohamedrimsan.github.io
+* Email: [mohamed.rimsan@outlook.com](mailto:mohamed.rimsan@outlook.com)
+
+---
+
+<div align="center">
+
+### 🚀 Building Secure Systems • Improving Quality • Managing Risk
+
+</div>
