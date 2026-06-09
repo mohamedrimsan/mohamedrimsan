@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm AR Mohamed Rimsan</h1>
 
 <h3 align="center">
-  QA & Security Engineer | Cybersecurity Enthusiast | IT Undergraduate
+  QA & Security Engineer - Intern | Cybersecurity Enthusiast | IT Undergraduate
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJ5MXN2a3Z2Y3VzdTQ1ZWJ6OW9peHk5YjA3bWxlcnllYjF0ZHA5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I am an **Information Technology undergraduate** and **QA & Security Engineer** with hands-on experience in:
+I am an **Information Technology undergraduate** and **QA & Security Engineer - Intern** with hands-on experience in:
 
 * 🔐 Cybersecurity & Security Testing
 * 🧪 Quality Assurance Testing
