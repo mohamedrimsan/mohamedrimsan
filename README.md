@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm AR Mohamed Rimsan</h1>
 
 <h3 align="center">
-  QA & Security Engineer - Intern | Cybersecurity Enthusiast | IT Undergraduate
+  QA & Security Engineer - Trainee | Cybersecurity Enthusiast | IT Undergraduate
 </h3>
 
 <p align="center">
