@@ -192,16 +192,6 @@ Focus Areas:
 
 ---
 
-## 🌐 Connect With Me
-
-📧 [mohamed.rimsan@outlook.com](mailto:mohamed.rimsan@outlook.com)
-
-🔗 LinkedIn: linkedin.com/in/mohamed-rimsan-a-r
-
-🌐 Portfolio: mohamedrimsan.github.io
-
----
-
 <div align="center">
 
 ### 🔐 Cybersecurity • 🧪 Quality Assurance • ☁️ Cloud Security • 📊 GRC
