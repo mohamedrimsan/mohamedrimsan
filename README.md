@@ -152,17 +152,11 @@ Currently contributing to enterprise-grade digital platforms through:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedrimsan&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimsan&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrimsan&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
