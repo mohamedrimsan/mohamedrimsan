@@ -94,16 +94,25 @@ Currently contributing to enterprise-grade digital platforms through:
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-222222?style=for-the-badge)
 
-### QA & Testing
+### QA, API Testing & Automation
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge)
 
-### Cloud & Infrastructure
+### Cloud, DevOps & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
+![Contabo](https://img.shields.io/badge/Contabo-00AEEF?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
 
 ### Development
@@ -112,7 +121,17 @@ Currently contributing to enterprise-grade digital platforms through:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
+
+### Version Control & Scripting
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
 
 ---
 
