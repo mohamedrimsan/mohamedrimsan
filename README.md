@@ -17,7 +17,7 @@ QA & Security Engineer | QA Automation | Application Security | AWS & DevSecOps
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="mailto:mohamed.rimsan@outlook.com">
+<a href="mailto:mohamed.rimsan.ar@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
