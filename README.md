@@ -213,7 +213,7 @@ Practicing the concepts and workflows used in a service desk environment, with a
 
 **Learning focus:** Ticket triage · Windows/user issues · Escalation · Support documentation
 
-<sub>Training activity, not employer experience. Specific completed scenarios will be added once documented.</sub>
+
 
 </td>
 <td width="50%" valign="top">
@@ -290,7 +290,7 @@ Developed campaign, contact, SMTP, template, attachment, scheduling and tracking
 - **Service delivery:** ITSM, incident workflows, prioritization, escalation and documentation
 - **Automation & systems:** PowerShell, endpoint concepts and basic systems administration
 
-<sub>These are ongoing learning goals; not claimed workplace administration experience.</sub>
+
 
 </td>
 <td width="48%" valign="top">
@@ -336,7 +336,7 @@ Focus areas include computing, programming, databases, networking and informatio
 
 </div>
 
-<sub>GitHub analytics images are provided by third-party services and may occasionally be unavailable.</sub>
+
 
 ---
 
