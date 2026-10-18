@@ -96,7 +96,7 @@ I'm actively strengthening my knowledge of **enterprise networking, Microsoft 36
 
 ### 🎧 Help Desk Representative — Tech Bridge Solutions Ltd
 
-**Feb 2025 – Present &nbsp; | &nbsp; Remote &nbsp; | &nbsp; Manchester, United Kingdom**
+**Feb 2025 – Oct 2026 &nbsp; | &nbsp; Remote &nbsp; | &nbsp; Manchester, United Kingdom**
 
 - Provide remote user assistance with application, operating-system, connectivity, account-access, hardware and software issues.
 - Collect relevant information, investigate reported problems and guide users through appropriate troubleshooting steps.
