@@ -1,181 +1,365 @@
+<!--
+  MOHAMED RIMSAN — GITHUB PROFILE
+  Professional focus: Technical Support Engineering, IT Support, Service Desk,
+  Systems & Application Support, IT Operations.
+  GitHub profile repository: github.com/mohamedrimsan/mohamedrimsan
+  NOTE: Commit this README.md and the assets/ directory together.
+-->
+
 <div align="center">
 
-# 👋 Hi, I'm AR Mohamed Rimsan
+<img src="assets/technical-support-banner.png" alt="Mohamed Rimsan — Technical Support Engineering | IT Support, Service Desk, Application Support" width="100%" />
 
-### Technical Support Engineering · IT Support & Service Desk · Systems & Application Support
+<br/>
 
-**Solving technical problems. Supporting people. Keeping systems reliable.**
+<a href="https://mohamedrimsan.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-0C8294?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohamed-rimsan-a-r/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohamed.rimsan.ar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedrimsan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rimsan-a-r/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.rimsan.ar@gmail.com)
+<br/><br/>
 
-📍 **Sri Lanka** &nbsp;|&nbsp; 🎓 **BSc (Hons) IT Undergraduate** &nbsp;|&nbsp; 🎧 **Remote Help Desk Experience**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2900&pause=1100&color=2CBACD&center=true&vCenter=true&width=920&height=43&lines=IT+Support+%26+Technical+Support+Engineering;Service+Desk+%26+Remote+User+Support;Systems+%26+Application+Troubleshooting;Incident+Management+%26+IT+Operations;Structured+Troubleshooting.+Reliable+Solutions." alt="Technical support specialties animated headline" />
+
+**📍 Sri Lanka &nbsp; • &nbsp; 🎓 BSc (Hons) Information Technology Undergraduate &nbsp; • &nbsp; 🎧 Remote Help Desk Experience**
+
+<sub>Focused on growing within enterprise IT support, service desk operations, systems support and infrastructure engineering.</sub>
 
 </div>
 
 ---
 
+<div align="center">
+
+[**About**](#-about-me) &nbsp;•&nbsp; [**Experience**](#-professional-experience) &nbsp;•&nbsp; [**Skills**](#-technical-toolkit) &nbsp;•&nbsp; [**Projects**](#-projects--hands-on-training) &nbsp;•&nbsp; [**Learning**](#-professional-development) &nbsp;•&nbsp; [**Connect**](#-lets-connect)
+
+</div>
+
 ## 👨‍💻 About Me
 
-I'm an IT professional focused on building my career in **Technical Support Engineering, IT Support, Service Desk Operations, and Systems & Application Support**. I enjoy diagnosing technical problems, helping users, documenting issues clearly, and working with teams to restore reliable service.
+I'm **Mohamed Rimsan**, an IT professional and **BSc (Hons) Information Technology undergraduate** building my career in **Technical Support Engineering, IT Support, Service Desk Operations, and Systems & Application Support**.
 
-As a **Help Desk Representative at Tech Bridge Solutions Ltd**, I provide remote user support for application, operating-system, connectivity, account-access, hardware, and software issues. My work includes gathering problem details, guiding users through troubleshooting, documenting incidents and requests, escalating complex issues, and keeping users informed.
+As a **Help Desk Representative at Tech Bridge Solutions Ltd**, I support users remotely with application, operating-system, connectivity, access, hardware and software issues. My responsibilities include gathering issue details, guiding users through troubleshooting, maintaining support records, coordinating escalations and communicating progress.
 
-Before specializing in technical support, I worked in **QA & Security Engineering** at SAĜO Mente International. Investigating application defects, validating APIs, checking logs and deployments, and verifying fixes strengthened the structured problem-solving approach I bring to IT support.
+I previously worked in **QA & Security Engineering at SAĜO Mente International**, where I investigated application defects, tested APIs, analyzed system behavior, supported deployment checks, and worked with engineering teams to verify fixes. This experience adds depth to my technical troubleshooting and application-support approach.
 
-I'm currently expanding my practical knowledge of **enterprise networking, IT service management, Microsoft 365, identity and access management, and systems administration**. These are learning priorities—not claims of completed professional experience.
+I'm actively strengthening my knowledge of **enterprise networking, Microsoft 365, Active Directory, Windows Server, PowerShell and IT service management** through independent learning and practical exercises. These are **areas of ongoing development**, not claims of professional administration experience.
 
----
+> **My focus:** Understand the issue, communicate clearly, investigate systematically, and help restore dependable service.
 
-## 🎯 Career Focus
+## 🎯 Where I Focus
 
-| Primary focus | Practical strengths | Continuing development |
-| :--- | :--- | :--- |
-| 🎧 IT Support & Service Desk | Remote user assistance, support documentation, escalation | ITSM / ITIL workflows and ticketing practice |
-| 🖥️ Desktop & Systems Support | Windows/Linux fundamentals, software and connectivity troubleshooting | Windows Server and endpoint management |
-| 🛠️ Application Support | Defect reproduction, API diagnostics, Jira, Postman | Monitoring, production support, and automation |
-| 🌐 IT Infrastructure & Operations | Networking fundamentals, log analysis, AWS deployment checks | DNS/DHCP, Microsoft 365, Active Directory, PowerShell |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Roles I'm focused on:** Technical Support Engineer · IT Support Engineer · Service Desk Analyst · Application Support Engineer · Systems Support Engineer
+### 🎧 IT Support & Service Desk
 
----
+- Remote end-user support
+- Incident and service request handling
+- Hardware/software troubleshooting
+- Ticket documentation and follow-up
+- Escalation and customer communication
+
+</td>
+<td width="33%" valign="top">
+
+### 🖥️ Systems & Application Support
+
+- Windows and Linux fundamentals
+- Application and API investigation
+- Connectivity and access issues
+- Log and error analysis
+- Deployment and release verification
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ IT Operations & Growth
+
+- Networking fundamentals
+- Structured problem-solving
+- Knowledge-base documentation
+- Security-aware troubleshooting
+- Learning enterprise IT infrastructure
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="assets/support-workflow.png" alt="Support workflow: Understand, Triage, Diagnose, Resolve, Verify and Document" width="100%" />
+
+</div>
 
 ## 💼 Professional Experience
 
 ### 🎧 Help Desk Representative — Tech Bridge Solutions Ltd
-**February 2025 – Present · Remote · Manchester, United Kingdom**
 
-- Provide remote assistance for application, operating-system, account-access, connectivity, hardware, and software issues.
-- Gather relevant details, guide users through troubleshooting steps, and follow up on reported problems.
-- Document incidents and service requests, escalate unresolved issues, and coordinate with relevant teams.
-- Keep users informed through clear, professional communication and accurate support records.
+**Feb 2025 – Present &nbsp; | &nbsp; Remote &nbsp; | &nbsp; Manchester, United Kingdom**
 
-### 🔍 QA & Security Engineer Trainee — SAĜO Mente International Sdn Bhd
-**July 2026 – September 2026 · Moratuwa, Sri Lanka**
+- Provide remote user assistance with application, operating-system, connectivity, account-access, hardware and software issues.
+- Collect relevant information, investigate reported problems and guide users through appropriate troubleshooting steps.
+- Document incidents and service requests, manage follow-ups and escalate issues requiring additional support.
+- Keep users informed through clear technical guidance, accurate records and coordination with support teams.
 
-- Investigated web and mobile application issues, reproduced defects, and documented findings for development teams.
-- Validated REST APIs, authentication, authorization, and response behavior using Postman and Swagger/OpenAPI.
-- Used Jira to track defects and verify corrective changes.
-- Supported AWS/VPS deployment verification through application checks, logs, configurations, and API responses.
-- Conducted automation, security, and performance checks as part of software release verification.
+**Experience areas:** `Remote Support` `Troubleshooting` `Incident Handling` `Escalation` `Customer Communication` `Support Documentation`
 
-### 🧪 QA & Security Engineer Intern — SAĜO Mente International Sdn Bhd
-**March 2026 – June 2026 · Moratuwa, Sri Lanka**
+<details>
+<summary><b>🔎 Earlier engineering experience — QA, application diagnostics & security validation</b></summary>
 
-- Performed functional, regression, exploratory, and responsive testing across web and mobile applications.
-- Investigated defects and integration issues, documented results in Jira, and retested fixes.
-- Collaborated with development, QA, and project teams during testing, UAT, and release reviews.
+<br/>
 
----
+### QA & Security Engineer Trainee — SAĜO Mente International Sdn Bhd
 
-## 🛠️ Technical Skills
+**Jul 2026 – Sep 2026 &nbsp; | &nbsp; Moratuwa, Sri Lanka**
 
-### IT Support & Troubleshooting
+- Investigated web and mobile application issues across user, provider, organization and administrator workflows.
+- Validated REST APIs, authentication, authorization, input handling and response behavior with Postman and Swagger/OpenAPI.
+- Tracked and retested defects with Jira; verified fixes, access controls and application behavior.
+- Supported AWS/VPS deployment checks using logs, configurations and API responses.
+- Performed automation, performance and security testing with Playwright, Selenium, k6, JMeter, Burp Suite and OWASP ZAP.
 
-![Technical Support](https://img.shields.io/badge/Technical-Support-0E7490?style=flat-square)
-![Help Desk](https://img.shields.io/badge/Help-Desk-0369A1?style=flat-square)
-![Remote Support](https://img.shields.io/badge/Remote-Support-0284C7?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### QA & Security Engineer Intern — SAĜO Mente International Sdn Bhd
 
-Remote user support · Hardware/software troubleshooting · Connectivity and access issues · Support requests and incident records · Escalation · Technical documentation · Customer communication
+**Mar 2026 – Jun 2026 &nbsp; | &nbsp; Moratuwa, Sri Lanka**
 
-### Application Support & Diagnostics
+- Conducted functional, regression, exploratory and responsive testing of web and mobile applications.
+- Reproduced application defects, recorded findings in Jira and verified corrective changes.
+- Collaborated with development and QA teams in Agile stand-ups, UAT and release reviews.
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Transferable strengths:** `Application Troubleshooting` `API Diagnostics` `Defect Investigation` `Log Analysis` `Documentation` `Technical Collaboration`
 
-Application and API troubleshooting · Defect investigation · REST API validation · HTTP responses · Log analysis · Issue tracking · Deployment verification
-
-### Supporting Engineering Background
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
-
-Cloud deployment checks · Automated testing · Application security validation · Software reliability · Secure access controls
-
-> **Currently learning:** Microsoft 365 administration · Active Directory · Windows Server · PowerShell · IT service management · Advanced network troubleshooting. These are development goals, not claimed workplace experience.
+</details>
 
 ---
 
-## 🧰 Projects & Hands-On Training
+## 🧰 Technical Toolkit
 
-### 🎧 ServiceDesk Simulator — IT Support & Service Desk Training
-**Hands-on learning · In progress**
+### 🖥️ End-User Support & Operating Systems
 
-Developing my technical-support skills through simulated service-desk scenarios. This is a learning activity, not professional employment. I'll document specific troubleshooting scenarios, ticket-handling exercises, and outcomes as I complete them.
+<p>
+<img src="https://img.shields.io/badge/Technical%20Support-0B7995?style=for-the-badge&logo=headphones&logoColor=white" alt="Technical Support" />
+<img src="https://img.shields.io/badge/Help%20Desk-146C84?style=for-the-badge&logoColor=white" alt="Help Desk" />
+<img src="https://img.shields.io/badge/Remote%20Support-076E93?style=for-the-badge&logoColor=white" alt="Remote Support" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-**Learning focus:** Incident handling · Technical troubleshooting · Service desk workflows · User communication · Documentation
+`Remote Troubleshooting` · `Operating System Issues` · `Application Support` · `Connectivity Problems` · `User Guidance` · `Incident Documentation` · `Issue Escalation` · `Hardware & Software Troubleshooting`
 
-### 🛡️ AssureX — Quality, Security & Risk Assurance Platform
+### 🛠️ Application Diagnostics, Tickets & Engineering Tools
 
-Designed and developed a platform for QA test management, vulnerability and asset tracking, remediation workflows, risk scoring, role-based access control, MFA, audit logs, and reporting.
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger OpenAPI" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**Technology:** Next.js · TypeScript · PostgreSQL · Prisma · Playwright · Docker
+`Application Issue Reproduction` · `REST API Validation` · `HTTP Responses` · `Defect Tracking` · `Root Cause Investigation` · `Log Analysis` · `Deployment Checks` · `Technical Reporting`
 
-### 🧪 VeriGuard — QA Automation & Testing Platform
-**Active development**
+### ☁️ Cloud, Infrastructure & Development Exposure
 
-Developing a platform for managing testing projects and environments, API test workflows, credential protection, background jobs, and execution tracking. The work strengthens my understanding of diagnosing application issues and supporting complex systems.
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-**Technology:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Docker · Jest
+`AWS ECS / ECR / CloudShell Exposure` · `Docker` · `Linux Environments` · `CI/CD` · `Database Troubleshooting` · `SMTP Workflows` · `Version Control`
 
-### 📧 MailForge — Email Campaign & Tracking Platform
-**Active development**
+<details>
+<summary><b>🔐 View my earlier QA, automation & cybersecurity toolkit</b></summary>
 
-Worked on SMTP integration, email delivery, contact and campaign management, tracking, and reporting. Troubleshot database migrations and email-delivery workflows across application services.
+<br/>
 
-**Technology:** Next.js · Node.js · TypeScript · PostgreSQL · Prisma · Redis
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logoColor=white" alt="Appium" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+</p>
 
-### 🔐 Previous Cybersecurity Labs
+**Previous areas of practice:** Functional, regression, exploratory and API testing · Test automation · Performance testing · Application security · Authentication and access-control validation · Vulnerability assessment · Defect remediation verification · Release-readiness checks.
 
-Completed hands-on defensive security and SOC exercises involving security alert triage, phishing analysis, log investigation, and incident-response workflows. These remain part of my wider technical background.
-
-> Some projects are still in development. Features and results should be interpreted according to their stated status, not as production deployment claims.
+</details>
 
 ---
 
-## 🎓 Education & Professional Development
+## 🚀 Projects & Hands-On Training
 
-**BSc (Hons) in Information Technology** — The Open University of Sri Lanka  
-**2023 – 2027 (expected)** · CGPA: **3.46** (last reported)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Selected completed learning and credentials:**
+### 🎧 ServiceDesk Simulator
 
-- Google Cybersecurity Professional Certificate — Google / Coursera (January 2026)
-- Junior Cybersecurity Analyst Career Path — Cisco Networking Academy (July 2025)
-- Introduction to Cybersecurity — Cisco Networking Academy
-- ISO/IEC 27701:2025 Lead Auditor Training — Privacy information management and audit principles
+**IT Support & Service Desk Training — Ongoing**
 
-**Ongoing learning:** IT Support and networking fundamentals; Software Testing and Automation Specialization (University of Minnesota / Coursera).
+Practicing the concepts and workflows used in a service desk environment, with a focus on structured troubleshooting, incident handling, user communication and documenting support cases.
 
-My **current learning priority** is enterprise IT support, service desk processes, Microsoft technologies, networking, and systems administration.
+**Learning focus:** Ticket triage · Windows/user issues · Escalation · Support documentation
+
+<sub>Training activity, not employer experience. Specific completed scenarios will be added once documented.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ AssureX
+
+**Quality, Security & Risk Assurance Platform**
+
+Designed and developed a full-stack platform for test management, vulnerability and asset tracking, remediation workflows, CVSS v3.1 risk scoring, role-based access, MFA, audit logs and reporting.
+
+**Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Playwright · Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 VeriGuard
+
+**QA Automation & Testing Platform — Active Development**
+
+Developing a testing platform with project/environment management, REST API workflows, secure credential handling, background job processing, task lifecycle tracking and health monitoring.
+
+**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Redis · BullMQ · Docker · Jest
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 MailForge
+
+**Email Campaign & Tracking Platform — Active Development**
+
+Developed campaign, contact, SMTP, template, attachment, scheduling and tracking features. Worked on email delivery and database-migration troubleshooting across frontend, backend and worker services.
+
+**Stack:** Next.js · Node.js · TypeScript · PostgreSQL · Prisma · Redis
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 Explore additional technical detail from my projects</b></summary>
+
+<br/>
+
+**AssureX:** Test case execution, vulnerability management, asset management, remediation tracking, CVSS scoring, audit logging, risk dashboards, PDF reporting and role-based access controls.
+
+**VeriGuard:** Organization/project/environment management, API integrations, Redis/BullMQ background processing, AES-256-GCM credential protection, test execution workflows and readiness/health checks.
+
+**MailForge:** SMTP integration, scheduled campaigns, templates, recipient management, attachments, delivery tracking, reporting and troubleshooting of service interactions.
+
+**Previous security labs:** LetsDefend SOC exercises and cybersecurity simulations covering alert triage, log investigation, phishing analysis, threat identification and incident-response processes. These are learning experiences, not professional SOC employment.
+
+</details>
+
+<div align="center">
+
+[![Explore Portfolio Projects](https://img.shields.io/badge/VIEW%20MORE%20PROJECTS-PORTFOLIO-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedrimsan.github.io/)
+
+</div>
+
+---
+
+## 📚 Professional Development
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### 🎯 Current Learning Priorities
+
+- **Enterprise support:** Windows support, Microsoft 365, Active Directory, Windows Server
+- **Networking:** TCP/IP, DNS, DHCP, connectivity troubleshooting
+- **Service delivery:** ITSM, incident workflows, prioritization, escalation and documentation
+- **Automation & systems:** PowerShell, endpoint concepts and basic systems administration
+
+<sub>These are ongoing learning goals; not claimed workplace administration experience.</sub>
+
+</td>
+<td width="48%" valign="top">
+
+### 🎓 Education
+
+**BSc (Hons) Information Technology**  
+The Open University of Sri Lanka
+
+**2023 – 2027 (expected)**  
+**CGPA: 3.46** (last reported)
+
+Focus areas include computing, programming, databases, networking and information systems.
+
+</td>
+</tr>
+</table>
+
+### 🏅 Selected Certifications & Training
+
+| Credential | Issuer | Status / date |
+| :--- | :--- | :--- |
+| Google Cybersecurity Professional Certificate | Google / Coursera | Jan 2026 |
+| Junior Cybersecurity Analyst Career Path | Cisco Networking Academy | Jul 2025 |
+| Introduction to Cybersecurity | Cisco Networking Academy | Completed |
+| ISO/IEC 27701:2025 Lead Auditor Training | Training programme | Completed training |
+| Software Testing & Automation Specialization | University of Minnesota / Coursera | In progress |
+| ServiceDesk Simulator | Independent practical training | In progress |
+
+> My current career development is focused on IT support, IT operations and infrastructure. Earlier QA and security credentials remain part of my technical foundation.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedrimsan&theme=tokyonight" alt="Mohamed Rimsan GitHub contribution overview" width="94%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimsan&theme=tokyonight&hide_border=true" alt="Mohamed Rimsan GitHub contribution streak statistics" width="61%" />
+
+</div>
+
+<sub>GitHub analytics images are provided by third-party services and may occasionally be unavailable.</sub>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm interested in opportunities in **Technical Support, IT Support, Service Desk, Application Support, and Systems Support**.
-
-- 🌐 **Portfolio:** [mohamedrimsan.github.io](https://mohamedrimsan.github.io/)
-- 💼 **LinkedIn:** [linkedin.com/in/mohamed-rimsan-a-r](https://www.linkedin.com/in/mohamed-rimsan-a-r/)
-- ✉️ **Email:** [mohamed.rimsan.ar@gmail.com](mailto:mohamed.rimsan.ar@gmail.com)
-- 📞 **Phone:** [+94 77 404 7471](tel:+94774047471)
-
 <div align="center">
+
+**Interested in Technical Support Engineering · IT Support · Service Desk · Application Support · Systems Support roles**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohamed-rimsan-a-r/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohamed.rimsan.ar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-MESSAGE%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mohamedrimsan.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW%20WEBSITE-0C8294?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+**📧 [mohamed.rimsan.ar@gmail.com](mailto:mohamed.rimsan.ar@gmail.com) &nbsp; | &nbsp; 📞 [+94 77 404 7471](tel:+94774047471)**
 
 ---
 
-**Technical Support Engineering · Service Desk · Systems & Application Support · IT Operations**
+<sub>Technical Support Engineering • IT Operations • Systems & Application Support</sub>
 
-*Clear communication. Structured troubleshooting. Dependable support.*
+**Clear communication. Structured troubleshooting. Reliable solutions.**
 
 </div>
