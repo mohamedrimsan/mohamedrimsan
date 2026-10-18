@@ -213,6 +213,8 @@ Practicing the concepts and workflows used in a service desk environment, with a
 
 **Learning focus:** Ticket triage · Windows/user issues · Escalation · Support documentation
 
+<sub>Training activity, not employer experience. Specific completed scenarios will be added once documented.</sub>
+
 </td>
 <td width="50%" valign="top">
 
